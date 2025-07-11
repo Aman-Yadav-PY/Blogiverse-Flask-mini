@@ -135,12 +135,6 @@ Use `werkzeug.security.generate_password_hash('yourpassword')` to generate the h
 
 ---
 
-## ✨ Screenshots
-
-> Add screenshots of dashboard, post creation, and reset password features here for better presentation.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
